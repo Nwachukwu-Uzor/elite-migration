@@ -796,6 +796,7 @@ section {
   text-transform: uppercase;
   margin: 6px -10px;
   color: #fff;
+  text-shadow: 2px 2px 5px #ca8b2c;
 }
 
 .small {
@@ -805,6 +806,7 @@ section {
   margin: 30px 0px 0px;
   text-transform: uppercase;
   font-weight: 600;
+  text-shadow: 2px 2px 5px #ca8b2c;
 }
 
 .home .flexslider .slides img {
